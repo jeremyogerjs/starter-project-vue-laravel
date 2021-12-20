@@ -21,7 +21,7 @@
                         {{ item.title }}
                     </v-list-item-title>
                 </v-list-item>
-                <v-list-item @click="logout" style="curosor:pointer">
+                <v-list-item @click="logout" style="cursor:pointer">
                     <v-list-item-icon>
                         <v-icon>mdi-logout</v-icon>
                     </v-list-item-icon>
